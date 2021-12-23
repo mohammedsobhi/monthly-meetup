@@ -1,1 +1,9 @@
 December meetup - topic title
+
+
+.
+refrences:
+https://www.w3schools.com/html
+https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+https://www.geeksforgeeks.org/html-course-structure-of-an-html-document/
+https://stackoverflow.com/questions/6771258/what-does-meta-http-equiv-x-ua-compatible-content-ie-edge-do
